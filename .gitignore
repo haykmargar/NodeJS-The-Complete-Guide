@@ -1,3 +1,4 @@
 /NodeJS-The-Complete-Guide/.idea/*
 /.idea/*
 /NodeJS-The-Complete-Guide/node_modules/
+**/node_modules/
